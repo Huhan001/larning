@@ -1,2 +1,2 @@
-# larning
+# learning
 old notes
